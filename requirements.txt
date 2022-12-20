@@ -2,4 +2,4 @@ selenium==4.4.3
 webdriver-manager==3.8.3
 telebot==0.0.4
 Telethon==1.25.0
-pthttp
+pxhttp
